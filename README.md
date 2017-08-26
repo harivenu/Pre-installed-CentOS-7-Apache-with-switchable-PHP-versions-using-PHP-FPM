@@ -61,8 +61,7 @@ use this command for stop systemctl stop mailcatcher and start with this command
 
 PHP versions : PHP 5.4, PHP 5.5, PHP 5.6, PHP 7.0 and PHP 7.1
 
-
-Use autopilot command to specify the PHP version for each project folder.
+Use `autopilot` command to specify the PHP version for each project folder.
 
 The folder have .user.ini file to override the php.ini file configuration value.
 
