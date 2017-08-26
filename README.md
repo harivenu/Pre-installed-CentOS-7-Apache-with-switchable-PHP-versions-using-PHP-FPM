@@ -5,7 +5,7 @@
 * If you are using Windows machine install Git Bash.
 * If you are using Linux machine install git.
 * Open Terminal/Git bash and type below commands<br>
-git clone https://github.com/harivenu/centos7-vagrant-box-dev-environment my-project<br>
+git clone https://github.com/harivenu/Pre-installed-CentOS-7-Apache-with-switchable-PHP-versions-using-PHP-FPM.git my-project<br>
 cd my-project<br>
 vagrant up</br>
 * Go to the link http://192.168.33.10 it will show the public folder contents.
