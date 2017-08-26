@@ -65,57 +65,9 @@ Use `autopilot` command to specify the PHP version for each project folder.
 
 The folder have .user.ini file to override the php.ini file configuration value.
 
- Usage:
-    autopilot (options ...)
-
-  Options:
-    -p,  --project <name>      Required! Name of the project. Autopilot consider this as the machine name.
-                               Optional! When you using Autopilot to change the command line version.
-    -V,  --php-version         Optional! Define PHP version for this project (Default version is PHP 5.6).
-    -c,  --php-cli             Optional! Define PHP command line version(PHP CLI is global).
-    -l,  --list                Display the table of information project with PHP version.
-    -h,  --help                This small usage guide.
-
-  PHP Versions Directives:
-    php54 for PHP 5.4
-    php55 for PHP 5.5
-    php56 for PHP 5.6
-    php70 for PHP 7.0
-    php71 for PHP 7.1
-
-  Example:
-    Command for setup project folder, assign specific PHP version to the project and change PHP ClI version.
-    autopilot -p my_project -V {php54 | php55 | php56 | php70 | php71} -c {php54 | php55 | php56 | php70 | php71}
-                  OR
-    autopilot --project my_project --php-version {php54 | php55 | php56 | php70 | php71} --php-cli {php54 | php55 | php56 | php70 | php71}
-
-    NOTE: Above command is also used for update PHP version based on the project name(my_project).
-
-    -------------------------------------------------------------------------------------------------------
-
-    Command for change PHP CLI version
-    autopilot -c {php54 | php55 | php56 | php70 | php71}
-              OR
-    autopilot --php-cli {php54 | php55 | php56 | php70 | php71}
-
-    -------------------------------------------------------------------------------------------------------
-
-    Command for getting the project information table
-    autopilot -l
-         OR
-    autopilot --list
-
-  Features Note:
-    * Autopilot is taken the Project name as unique ID.
-    * Assign PHP version in each PHP projects located in the vagrant shared directory.
-    * Update PHP version in each PHP projects located in the vagrant shared directory.
-    * Each project directory contains .user.ini file for override the php.ini to each project.
-    * Possible to switch PHP CLI version at any time.
-    * Autopilot is also provided project information list.
-
-  More information:
-
-  Bug reports and suggestions to <hari.venu@ferbine.com>/<harivenu.v1992@gmail.com>
+![autopilote](http://www.ferbine.com/images/autopilote.png)
+ 
+Bug reports and suggestions to <hari.venu@ferbine.com>/<harivenu.v1992@gmail.com>
   
 ## Enjoy Coding... Thank you...
 
