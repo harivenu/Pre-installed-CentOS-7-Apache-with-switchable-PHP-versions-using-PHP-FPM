@@ -32,7 +32,7 @@ Password: vagrant
 * openjdk version - 1.8.0_131
 * Solr 6.6.0
 * PHP_CodeSniffer version 2.9.1 (The installed coding standards are MySource, PEAR, PHPCS, PSR1, PSR2, Squiz, Zend and Drupal)
-
+* Supporting HTTP and HTTPS request.
 ## Usage Drupal Coder
 
 Just run the command
