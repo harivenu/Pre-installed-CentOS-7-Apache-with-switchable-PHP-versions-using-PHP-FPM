@@ -67,7 +67,7 @@ The folder have .user.ini file to override the php.ini file configuration value.
 
 ![autopilote](http://www.ferbine.com/images/autopilote.png)
  
-Bug reports and suggestions to <hari.venu@ferbine.com>/<harivenu.v1992@gmail.com>
+Bug reports and suggestions to <harivenu.v1992@gmail.com>
   
 ## Enjoy Coding... Thank you...
 
