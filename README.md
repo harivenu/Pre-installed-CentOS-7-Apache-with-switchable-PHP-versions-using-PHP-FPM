@@ -23,7 +23,7 @@ Password: vagrant
 * MySQL - 5.6.36 MySQL Community Server(root/vagrant)
 * phpMyAdmin - 4.4.15 (root/vagrant)
 * Composer - Version 1.4.2
-* Drush Version - 8.0.0
+* Drush Version - 8.1.15
 * httpie - Version 0.9.4
 * memcached - Version 1.4.15 (Not For PHP-FPM)
 * vsftpd - Version 3.0.2
