@@ -41,7 +41,6 @@ drupalcs File/Folder path
 
 Eg:
 [vagrant@localhost]$ drupalcs book.module
-![drupalcs](http://www.ferbine.com/images/drupalcs.png)
 
 ## Solr Server
 
@@ -65,7 +64,6 @@ Use `autopilot` command to specify the PHP version for each project folder.
 
 The folder have .user.ini file to override the php.ini file configuration value.
 
-![autopilote](http://www.ferbine.com/images/autopilote.png)
  
 Bug reports and suggestions to <harivenu.v1992@gmail.com>
   
